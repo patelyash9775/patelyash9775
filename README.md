@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 💻 All of my projects are available at [https://github.com/patelyash9775](https://github.com/patelyash9775)
 
-- 👨‍ My portfolio Website [Yash_Patel](https://patelyash9775.github.io/portfolio-website/profile.html)
+- 👨‍ My portfolio Website [Yash_Patel](https://patelyash9775.github.io/)
 
 - 💬 Ask me about **Anything**
 

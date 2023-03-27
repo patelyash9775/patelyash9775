@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [React-native apps]
+- 🔭 I’m currently working on [React-js]
 
-- 🌱 I’m currently learning **react-native**
+- 🌱 I’m currently learning **Typescript**
 
 - 💻 All of my projects are available at [https://github.com/patelyash9775](https://github.com/patelyash9775)
 

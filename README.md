@@ -4,7 +4,7 @@
 
 ### 💼 Full-Stack Developer | ☁️ Cloud Architect | 📊 Sales Leader
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash-patel-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash-patel-portfolio-self.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-patel-4014a7207/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpatel9775@gmail.com)
 
@@ -101,17 +101,17 @@ Comprehensive M365 migration for enterprise including Azure AD, SharePoint, OneD
 - **Tech:** Azure AD, SharePoint, Power BI, Teams
 - **Impact:** Complete migration with employee training & documentation
 
-### 🔷 [BAPS Temple Attendance System](https://github.com/patelyash9775)
+### 🔷 [BAPS Temple Attendance System](https://github.com/patelyash9775/KYM)
 Full-stack attendance management system with admin portal and PWA capabilities.
 - **Tech:** Next.js, React, Node.js, GraphQL, SQL, PWA
 - **Features:** Soft delete, permissions management, progressive web app
 
-### 🔷 [Power Allocation in NOMA](https://github.com/patelyash9775)
+### 🔷 [Power Allocation in NOMA](https://github.com/patelyash9775/Power-Allocation-in-NOMA)
 Machine learning research project optimizing power distribution for base station communications.
 - **Tech:** Python, Matplotlib, SVM, Machine Learning
 - **Achievement:** Improved user fairness & reduced CSI overhead
 
-### 🔷 [Ulticus Company Website](https://github.com/patelyash9775)
+### 🔷 [Ulticus Company Website](https://www.ulticus.com/)
 Production website with admin panel, payment integration, and notifications.
 - **Tech:** Next.js, React, Express.js, GraphQL, Stripe, PWA
 - **Features:** Admin panel, payment processing, push notifications
@@ -161,7 +161,7 @@ Production website with admin panel, payment integration, and notifications.
 
 I'm always interested in collaborating on exciting projects or discussing opportunities!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-06B6D4?style=for-the-badge)](https://yash-patel-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-06B6D4?style=for-the-badge)](https://yash-patel-portfolio-self.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-patel-4014a7207/)
 [![Email](https://img.shields.io/badge/Email-yashpatel9775@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpatel9775@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/patelyash9775)

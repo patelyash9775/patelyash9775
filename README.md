@@ -167,7 +167,7 @@ I'm always interested in collaborating on exciting projects or discussing opport
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/patelyash9775)
 
 **📍 Location:** Truro, Nova Scotia, Canada  
-**📞 Phone:** 7359534571
+**📞 Phone:** 3432614012
 
 </div>
 
